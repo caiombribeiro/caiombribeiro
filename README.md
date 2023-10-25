@@ -3,7 +3,7 @@
 ⚡ I'm a Analyst Data. I study Analysis and Systems Development in FATEC-SP. I changed careers from HR to data.
 
 
-![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif)
+![Banana]([http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif](https://miro.medium.com/v2/resize:fit:1100/0*JReDjt8autJLJVzq.gif))
 
 <!--
 **caiombribeiro/caiombribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,9 +3,10 @@
 ⚡ I'm a Analyst Data. I study Analysis and Systems Development in FATEC-SP. I changed careers from HR to data.
 
 
-
-<img src="https://miro.medium.com/v2/resize:fit:1100/0*JReDjt8autJLJVzq.gif" alt="drawing" width="500" align="center"/>
-
+<p align="center">
+<img src="https://miro.medium.com/v2/resize:fit:1100/0*JReDjt8autJLJVzq.gif" alt="drawing" width="500"/>
+<\p>
+  
 <!--
 **caiombribeiro/caiombribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

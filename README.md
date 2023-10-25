@@ -5,7 +5,7 @@
 
 <p align="center">
 <img src="https://miro.medium.com/v2/resize:fit:1100/0*JReDjt8autJLJVzq.gif" alt="drawing" width="500"/>
-<\p>
+</p>
   
 <!--
 **caiombribeiro/caiombribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,8 @@
-### Hi there 👋
-# Meu nome é Caio Marques
+### Hi, I'm Caio Marques
+
+I'm a Analyst Data. I study Analysis and Systems Development in FATEC-SP. 
+
+```
 <!--
 **caiombribeiro/caiombribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

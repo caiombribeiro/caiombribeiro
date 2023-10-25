@@ -1,8 +1,7 @@
 ### Hi, I'm Caio Marques
 
-I'm a Analyst Data. I study Analysis and Systems Development in FATEC-SP. 
+I'm a Analyst Data. I study Analysis and Systems Development in FATEC-SP. I changed careers from HR to data.
 
-```
 <!--
 **caiombribeiro/caiombribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
